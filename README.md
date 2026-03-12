@@ -1,2 +1,30 @@
-# DIGITAL-CLOCK-PYTHON-FULL-STACK-DEVELOPMENT
-Developed a Digital Clock web application using Python in a full-stack environment. The project displays real-time date and time with dynamic updates using Python backend and frontend technologies. It demonstrates concepts of web development, time handling, and user-friendly interface design.
+Python Quiz Web Application
+Project Overview
+
+This project is an interactive Quiz Web Application developed using Python in a full-stack development environment. The application allows users to answer multiple-choice questions, submit responses, and instantly view their scores. It demonstrates backend logic, frontend interaction, and basic web application design.
+
+Features
+
+Multiple-choice quiz questions
+
+Instant score calculation
+
+User-friendly interface
+
+Dynamic question handling
+
+Real-time result display
+
+Technologies Used
+
+Python
+
+HTML
+
+CSS
+
+JavaScript
+
+Flask / Django (Python Web Framework)
+
+Project Structure
